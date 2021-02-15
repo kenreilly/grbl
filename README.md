@@ -1,3 +1,12 @@
+### kenreilly/grbl
+#### This fork of [grbl](https://github.com/gnea/grbl) is for:
+* implementing custom g-code commands for industrial automation
+* optimizing routines for asynchronous / parallel operations (when possible)
+* developing test routines for automated testing and verification
+
+
+***
+
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 ***
 
